@@ -42,6 +42,7 @@ ul{
 	margin-left: 20px;
 	background-color: #FCEE21;
 	padding: 20px;
+	color: #006837;
 }
 #rightcomputer{
 	float: left; 
@@ -49,4 +50,8 @@ ul{
 }
 .secondp{
 	margin-top: 20px;
+	font-family: Segoe UI;
+}
+.text{
+	font-family: Segoe UI;
 }
