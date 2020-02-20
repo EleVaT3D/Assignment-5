@@ -1,0 +1,52 @@
+body{
+	background-color: #56836F;
+}
+ul{
+	margin-top: 50px;
+	margin-left: 150px;
+	display: inline-block;
+}
+.listitems{
+	display: inline-block;
+	font-size: 48px;
+	width: 200px;
+	color: white;
+}
+#arrow{
+	margin-top: 20px;
+	margin-right: 40px;
+	float: right;
+	display: inline-block;
+}
+.twoboxes{
+	margin-top: 120px;
+	margin-bottom: 100px;
+}
+.divleft{
+	float: left;
+	width: 500px;
+	margin-left: 100px;
+	margin-right: 20px;
+	background-color: #FCEE21;
+	padding: 20px;
+}
+#leftcomputer{
+	float: right;
+	margin: auto;
+	margin: 10px 10px 10px 10px;
+}
+.divright{
+	float: right;
+	width: 500px;
+	margin-right: 100px;
+	margin-left: 20px;
+	background-color: #FCEE21;
+	padding: 20px;
+}
+#rightcomputer{
+	float: left; 
+	margin: 10px 10px 10px 10px;
+}
+.secondp{
+	margin-top: 20px;
+}
