@@ -1,35 +1,35 @@
 @font-face {
-  font-family: 'Segoe UI';
-  src: url('../fontsfolder/Segoe UI.eot');
-  src: url('../fontsfolder/Segoe UI.eot?#iefix') format('embedded-opentype'),
-       url('../fontsfolder/Segoe UI.woff2') format('woff2');
+  font-family: 'SegoeUI';
+  src: url('fontsfolder/Segoe UI.eot');
+  src: url('fontsfolder/Segoe UI.eot?#iefix') format('embedded-opentype'),
+       url('fontsfolder/Segoe UI.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'SegoeUI';
-  src: url('../fontsfolder/SegoeUI.svg#SegoeUI') format('svg'),
-       url('../fontsfolder/SegoeUI.ttf') format('truetype'),
-       url('../fontsfolder/SegoeUI.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Myriad Pro Regular';
-  src: url('../fontsfolder/Myriad Pro Regular.eot');
-  src: url('../fontsfolder/Myriad Pro Regular.eot?#iefix') format('embedded-opentype'),
-       url('../fontsfolder/Myriad Pro Regular.woff2') format('woff2');
+  src: url('fontsfolder/SegoeUI.svg#SegoeUI') format('svg'),
+       url('fontsfolder/SegoeUI.ttf') format('truetype'),
+       url('fontsfolder/SegoeUI.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'MyriadPro-Regular';
-  src: url('../fontsfolder/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg'),
-       url('../fontsfolder/MyriadPro-Regular.ttf') format('truetype'),
-       url('../fontsfolder/MyriadPro-Regular.woff') format('woff');
+  src: url('fontsfolder/Myriad Pro Regular.eot');
+  src: url('fontsfolder/Myriad Pro Regular.eot?#iefix') format('embedded-opentype'),
+       url('fontsfolder/Myriad Pro Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MyriadPro-Regular';
+  src: url('fontsfolder/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg'),
+       url('fontsfolder/MyriadPro-Regular.ttf') format('truetype'),
+       url('fontsfolder/MyriadPro-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }

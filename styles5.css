@@ -11,7 +11,7 @@ ul{
 	font-size: 48px;
 	width: 200px;
 	color: white;
-	font-family: Myriad Pro Regular;
+	font-family: MyriadPro-Regular;
 }
 #arrow{
 	margin-top: 20px;
@@ -20,6 +20,7 @@ ul{
 	display: inline-block;
 }
 .twoboxes{
+	width: 1240px;
 	margin-top: 120px;
 	margin-bottom: 100px;
 }
@@ -45,14 +46,17 @@ ul{
 	padding: 20px;
 	color: #006837;
 }
+.clear{
+	clear: both;
+}
 #rightcomputer{
 	float: left; 
 	margin: 10px 10px 10px 10px;
 }
 .secondp{
 	margin-top: 20px;
-	font-family: Segoe UI;
+	font-family: SegoeUI;
 }
 .text{
-	font-family: Segoe UI;
+	font-family: SegoeUI;
 }
